@@ -1,0 +1,3 @@
+﻿  KURSACH.cpp
+D:\КУРСАЧ 3Й СЕМ\KURSACH\KURSACH\KURSACH.cpp(143,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  KURSACH.vcxproj -> D:\КУРСАЧ 3Й СЕМ\KURSACH\x64\Debug\KURSACH.exe
